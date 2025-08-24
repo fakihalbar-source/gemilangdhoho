@@ -1,6 +1,4 @@
-![logo](https://github.com/user-attachments/assets/227289a1-a00b-4ae5-bf0f-a01499f0f8f4)
-[index.html](https://github.com/user-attachments/files/21956784/index.html)
-<!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/21956856/index.html)[Upl<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -116,3 +114,4 @@
 
 </body>
 </html>
+oading index.html…]()
