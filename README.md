@@ -1,6 +1,7 @@
 [index.html](https://github.com/user-attachments/files/21956856/index.html)[Upl<!DOCTYPE html>
 <html lang="id">
-<head![logo](https://github.com/user-attachments/assets/2dc4a912-22de-4b50-9a9e-d0c313d32363)>
+<head>![logo](https://github.com/user-attachments/assets/5de0eb7f-5986-40d8-a621-d1c653d8665c)
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>CV Gemilang Dhoho</title>
