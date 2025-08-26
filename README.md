@@ -72,7 +72,6 @@
 <body>
 
 <header>
-  <img src="assets/logo.png" alt="Logo CV Gemilang Dhoho">
   <h1>CV GEMILANG DHOHO</h1>
   <p>Penerbit & Percetakan</p>
 </header>
