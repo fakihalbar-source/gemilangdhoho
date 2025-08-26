@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/21985811/index.html)[Upl<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -114,4 +114,5 @@
 
 </body>
 </html>
-oading index.html…]()
+
+[index.html](https://github.com/user-attachments/files/21985953/index.html)
